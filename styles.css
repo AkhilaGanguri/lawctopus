@@ -1,0 +1,17 @@
+.social-icons {
+    position: fixed;
+    top: 50%; /* Adjust the vertical positioning as needed */
+    right: 10px;
+    transform: translateY(-50%);
+    z-index: 2;
+}
+
+.social-icons a {
+    display: block;
+    margin-bottom: 10px; /* Adjust the vertical spacing between icons */
+}
+
+.social-icons svg {
+    width: 30px; /* Adjust the width as needed */
+    height: 30px; /* Adjust the height as needed */
+}
